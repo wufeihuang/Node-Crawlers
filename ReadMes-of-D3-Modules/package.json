@@ -1,0 +1,11 @@
+{
+  "name": "ReadMes-of-D3-Modules",
+  "version": "1.0.0",
+  "description": "简单爬虫，爬取D3所有模块的API文档（ReadMe文件）",
+  "main": "index.js",
+  "author": "wfh",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
